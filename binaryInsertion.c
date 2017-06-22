@@ -76,7 +76,8 @@ void main(){
 						root=insert(root);
 					}
 					break;
-			case 2:display(root);break;
+			case 2:display(root);
+					break;
 			case 3:if(root==NULL){
 						printf("Trees is empty");
 						break;
